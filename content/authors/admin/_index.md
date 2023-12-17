@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -41,8 +41,8 @@ education:
   courses:
     - course: Ph.D. in Electrical Engineering
       institution: Northwestern University
-      year: 2022-Ongoing
-    - course: M.S in Electrical and Electronics Engineering
+      year: 2022-Present
+    - course: M.S. in Electrical and Electronics Engineering
       institution: Bilkent University
       year: 2019-2022
     - course: B.S. in Electrical and Electronics Engineering
@@ -55,7 +55,7 @@ skills:
     - name: Programming
       icon: "code"
       icon_pack: fa
-      description: "**Python**, **MATLAB**, **Java**, **C/C++**, **LabVIEW**, **VHDL**"
+      description: "**Python**, **MATLAB**, **Java**, **C**, **LabVIEW**, **VHDL**"
     
     - name: Frameworks
       icon: gears
@@ -65,7 +65,7 @@ skills:
     - name: Tools
       icon: tools
       icon_pack: fa
-      description: "**Linux**, **Git**, **Shell**, **MySQL**"
+      description: "**Linux**, **Git**, **Shell**, **Docker**, **MySQL**"
   
 
 # Social/Academic Networking
@@ -96,7 +96,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/mehmetcangok_cv.pdf
+    link: uploads/mcangok_cv_short.pdf
 
 # Highlight the author in author lists? (true/false)
 # ⭐️ I'm actively looking for research intern positions for Summer 2024! If your #team is hiring, I'd be happy to discuss further! ⭐️
